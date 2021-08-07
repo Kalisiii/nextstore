@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.0",
+    "@heroicons/react": "^1.0.3",
+    "autoprefixer": "^10.3.1",
+    "init": "^0.1.2",
     "next": "11.0.1",
+    "postcss": "^8.3.6",
+    "postcss-preset-env": "^6.7.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tailwindcss": "^2.2.7",
+    "tsconfig": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
